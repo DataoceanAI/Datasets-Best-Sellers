@@ -1,17 +1,20 @@
 # Title 
-Chinese Mandarin Speech Recognition Corpus-Incabin
+Chinese Mandarin Speech Recognition Corpus
                           
 # SKU
 King-ASR-874
+King-ASR-952
+King-ASR-953
+
 
 # Language
 Chinese
 
 # Duration
-1430.2 hours
+2700 hours
 
 # Speakers
-1092 males and 1520 females
+4500 people
 
 # Recording Environment
 Indoor, quiet environment
@@ -21,3 +24,5 @@ High sampling rate, in-vehicle corpus, indoor quiet collection, multiple scenari
             
 # URL
 https://dataoceanai.com/datasets/asr/chinese-mandarin-speech-recognition-library-corpus/
+https://dataoceanai.com/datasets/asr/chinese-mandarin-speech-recognition-corpus/
+https://dataoceanai.com/datasets/asr/chinese-mandarin-speech-recognition-corpus-for-the-elderly-and-children/
