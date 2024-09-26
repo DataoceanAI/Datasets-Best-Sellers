@@ -3,6 +3,8 @@ Chinese-English Mixed Speech Recognition Corpus (Desktop)
                           
 # SKU
 King-ASR-873
+King-ASR-951
+King-ASR-954
 
 # Language
 Chinese, English
@@ -18,3 +20,5 @@ Quiet indoor environment
            
 # URL
 https://dataoceanai.com/datasets/asr/chinese-english-mixed-speech-recognition-corpus-desktop/
+https://dataoceanai.com/datasets/asr/chinese-english-mixed-speech-recognition-corpus/
+https://dataoceanai.com/datasets/asr/5498/
